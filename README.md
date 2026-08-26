@@ -13,14 +13,53 @@
             src="https://img.shields.io/github/followers/talhadevstudio30-lang?style=for-the-badge&logo=github&logoColor=c4c0ff&color=c4c0ff&labelColor=131313"
             alt="GitHub followers" /></a> </p> <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:5b4ee8,50:c4c0ff,100:5b4ee8&height=2" width="100%"
-    alt="" /> `// 01. about-me` ## 🧑‍💻 About Me I craft **fast, accessible, pixel-perfect** web experiences — turning
-ideas into clean, component-driven interfaces with an obsession for the details most people miss: performance budgets,
-keyboard navigation, and micro-interactions that just *feel right*. Nothing accidental, everything intentional.
-```typescript // talha.ts const talha: FrontendDeveloper = { role: "Frontend Developer", stack: ["React", "TypeScript",
-"Tailwind CSS", "Vite"], superpowers: ["Accessibility (a11y)", "Performance", "Responsive UI"], currentlyBuilding:
-"Modern web apps that feel effortless to use", leveling_up: ["Advanced UI animation", "Frontend architecture"], openTo:
-["Frontend roles", "Freelance projects", "Collaboration"], status: "🟢 available for freelance", contact: "🔧
-your.email@example.com", funFact: "🔧 add yours — e.g. I debug 2x faster with lo-fi on 🎧", }; ``` <p align="center">
+    alt="" /> ## 01. About Me
+
+### 🧑‍💻 About Me
+
+I build **fast, accessible, pixel-perfect** web experiences. I turn ideas into clean, component-driven interfaces — with a focus on the details most people miss: performance, keyboard navigation, responsive design, and micro-interactions that just *feel right*.
+
+**Nothing accidental. Everything intentional.**
+
+```typescript
+// talha.ts
+
+const talha: FrontendDeveloper = {
+  // 👤 Who I am
+  name: "M Talha Javed",
+  role: "Frontend Developer",
+  status: "🟢 Available for freelance",
+
+  // 🛠️ What I work with
+  stack: ["React", "TypeScript", "Tailwind CSS", "Vite"],
+  superpowers: [
+    "Accessibility (a11y)",
+    "Performance",
+    "Responsive UI",
+  ],
+
+  // 🚀 What I'm doing right now
+  currentlyBuilding: "Modern web apps that feel effortless to use",
+  levelingUp: [
+    "Advanced UI animation",
+    "Frontend architecture",
+  ],
+
+  // 🤝 Let's work together
+  openTo: [
+    "Frontend roles",
+    "Freelance projects",
+    "Collaboration",
+  ],
+
+  // 📬 Contact
+  contact: "your.email@example.com",
+
+  // 🎧 Fun fact
+  funFact: "I debug 2x faster with lo-fi on 🎧",
+};
+```
+ <p align="center">
     <code>17+ projects shipped&nbsp;&nbsp;//&nbsp;&nbsp;100% pixel-perfect&nbsp;&nbsp;//&nbsp;&nbsp;∞ cups of coffee</code>
 </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b4ee8,50:c4c0ff,100:5b4ee8&height=2"
     width="100%" alt="" /> `// 02. tech-stack` ## 🛠️ Tech Stack <h3 align="center">💻 Core Arsenal</h3>
